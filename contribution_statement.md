@@ -6,3 +6,6 @@ Peiying Guan(25%):
 
 Michelle Fong (25%)
 * completed questions 2 and 6
+
+Yingyi Huang (25%)
+* reproduced figure 1 for question 4
