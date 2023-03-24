@@ -9,3 +9,6 @@ Michelle Fong (25%)
 
 Yingyi Huang (25%)
 * reproduced figure 1 for question 4
+
+Ye Joon Han (25%)
+* completed question 3.
